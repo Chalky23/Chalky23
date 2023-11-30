@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chalky23
 - 👀 I’m interested in learning a completely new skill to change careers.
-- 🌱 I’m currently learning using the Odin Project.
+- 🌱 I’m currently learning using the School of Code pre-course bootcamp and freeCodeCamp.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
