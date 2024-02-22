@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Chalky23
-- 👀 I’m interested in learning a completely new skill to change careers.
-- 🌱 I’m currently learning using the School of Code pre-course bootcamp and freeCodeCamp.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning JavaScript to embark on a new career in tech.
+- 🌱 I’m currently learning with the School of Code.
+- 📫 How to reach me ... www.linkedin.com/white-jack
 
 <!---
 Chalky23/Chalky23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
