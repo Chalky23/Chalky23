@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chalky23
-- 👀 I’m interested in learning JavaScript to embark on a new career in tech.
+- 👀 I’m interested in learning a wide variety of new languages to embark on a new career in tech.
 - 🌱 I’m currently learning with the School of Code.
 - 📫 How to reach me ... www.linkedin.com/white-jack
 
