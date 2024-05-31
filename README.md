@@ -1,11 +1,14 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+<h2 align="center">Hey! I'm Jack.</h2><p align="center">I'm on a wild journey taking me from submarines and nuclear reactors to the heights of a lifelong career in tech. I aspire to become a software engineer with a passion for anything on the back end - I want to know how it works, why it works and improve it!</p>
 
-- 👋 Hi, I’m @Chalky23
-- 👀 I’m interested in learning a wide variety of new languages to embark on a new career in tech.
-- 🌱 I’m currently learning with the School of Code.
-- 📫 How to reach me ... www.linkedin.com/white-jack
+<h3 align="center">Tech Stack:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,vercel,supabase,postgres,vscode,github,githubactions&perline=6" />
+  </a>
+</p>
+<br />
+<p align="center">My adventure into the world of software started with the School of Code and using the skills I learned there I am pushing on to forge my future career. <br />
+Where next? <a href="https://www.linkedin.com/in/white-jack"> You tell me... </a> </p>
 
-<!---
-Chalky23/Chalky23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
