@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
 - 👋 Hi, I’m @Chalky23
 - 👀 I’m interested in learning a wide variety of new languages to embark on a new career in tech.
 - 🌱 I’m currently learning with the School of Code.
